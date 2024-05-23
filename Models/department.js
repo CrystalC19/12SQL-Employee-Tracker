@@ -13,7 +13,8 @@ Department.init (
             autoIncrement: true,
         },
          name: {
-            type: DataTypes.STRING,
+            type: DataTypes.STRING(30),
+            allowNull: false
          },
     },
     {
