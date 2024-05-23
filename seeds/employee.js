@@ -12,4 +12,6 @@ const seedEmployeeData = async() => {
 
 
     process.exit(0)
-}
+};
+
+seedEmployeeData();
