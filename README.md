@@ -34,6 +34,8 @@ THEN I am prompted to select an employee to update and their new role and this i
  -  Inquirer Package
  -  PG Package
  -  Sequelize
+ -  DotENV
+ - Module 13 Models in the bootcamp work
  -  Process.exit method https://www.geeksforgeeks.org/node-js-process-exit-method/
 -  Async/Await https://www.freecodecamp.org/news/javascript-async-await/ 
 
