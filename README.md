@@ -1,6 +1,8 @@
 # 12SQL-Employee-Tracker
 
-
+ This application was created so that business owners can view or edit the departments,roles, and 
+ employees within their company.
+ 
 
 ## User Story
 I WANT to be able to view and manage the departments, roles, and employees in my company
